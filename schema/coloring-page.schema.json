@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/iMaKingtan/color-with-anne-printable-coloring-pages/main/schema/coloring-page.schema.json",
+  "title": "Printable coloring-page collection",
+  "description": "A small metadata format for printable coloring resources.",
+  "type": "object",
+  "required": ["collection", "updated", "items"],
+  "properties": {
+    "collection": { "type": "string", "minLength": 1 },
+    "updated": { "type": "string", "format": "date" },
+    "items": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/coloringPage" },
+      "uniqueItems": true
+    }
+  },
+  "additionalProperties": true,
+  "$defs": {
+    "coloringPage": {
+      "type": "object",
+      "required": [
+        "id",
+        "title",
+        "theme",
+        "subject",
+        "difficulty",
+        "preview",
+        "alt",
+        "sourcePage",
+        "license"
+      ],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "title": { "type": "string", "minLength": 3 },
+        "theme": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "subject": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 2 },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "difficulty": {
+          "type": "string",
+          "enum": ["very easy", "easy", "medium", "detailed"]
+        },
+        "suggestedAge": {
+          "type": "object",
+          "required": ["minimum", "maximum"],
+          "properties": {
+            "minimum": { "type": "integer", "minimum": 2, "maximum": 18 },
+            "maximum": { "type": "integer", "minimum": 2, "maximum": 18 }
+          },
+          "additionalProperties": false
+        },
+        "preview": { "type": "string", "pattern": "\\.webp$" },
+        "alt": { "type": "string", "minLength": 20 },
+        "sourcePage": { "type": "string", "format": "uri" },
+        "license": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    }
+  }
+}
