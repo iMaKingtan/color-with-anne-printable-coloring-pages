@@ -28,16 +28,26 @@ usage guidance, and the newest coloring-page collections.
 
 ## New This Week
 
-_Last updated: July 4, 2026_
+_Last updated: October 9, 2026_
 
-- [Miku Coloring Pages (Free PDF Printables)](https://colorwithanne.com/miku-coloring-pages/)
-- [Shadow Coloring Pages (Free PDF Printables)](https://colorwithanne.com/shadow-coloring-pages/)
-- [Stranger Things Coloring Pages (Free PDF Printables)](https://colorwithanne.com/stranger-things-coloring-pages/)
-- [Cute Drawings (Free PDF Printables)](https://colorwithanne.com/cute-drawings/)
+- [20 South Park Coloring Pages (Free PDF Printables)](https://colorwithanne.com/south-park-coloring-pages/)
+- [24 December Coloring Pages (Free PDF Printables)](https://colorwithanne.com/december-coloring-pages/)
+- [17 Flower Mandala Coloring Pages (Free PDF Printables)](https://colorwithanne.com/flower-mandala-coloring-pages/)
+- [20 Bugatti Coloring Pages (Free PDF Printables)](https://colorwithanne.com/bugatti-coloring-pages/)
 
 These links point to the newest topic pages on Color with Anne. Their images and
 printable files remain on the official website rather than being copied into
 this repository.
+
+## Trending Now
+
+_What visitors are searching for this week. Every link goes to a real article
+on colorwithanne.com._
+
+- [Rumi Coloring Pages (Free PDF Printables)](https://colorwithanne.com/rumi-coloring-pages/) — searches for "rumi coloring page" surged from zero to hundreds of impressions
+- [KPop Demon Hunters Coloring Pages (Free PDF Printables)](https://colorwithanne.com/kpop-demon-hunters-coloring-pages/) — rising fast in site searches and reader requests
+- [Halloween Coloring Pages (Free PDF Printables)](https://colorwithanne.com/halloween-coloring-pages/) — seasonal favorite as October 31 approaches
+- [Cinnamoroll Coloring Pages (Free PDF Printables)](https://colorwithanne.com/cinnamoroll-coloring-pages/) — clicks up sharply this month
 
 ## Featured preview collection: Capybara
 
