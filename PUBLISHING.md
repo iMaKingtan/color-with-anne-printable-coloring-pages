@@ -28,7 +28,7 @@ coloring-pages
 printables
 kids-activities
 teacher-resources
-capybara
+rumi
 github-pages
 webp
 ```

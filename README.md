@@ -49,24 +49,24 @@ on colorwithanne.com._
 - [Halloween Coloring Pages (Free PDF Printables)](https://colorwithanne.com/halloween-coloring-pages/) — seasonal favorite as October 31 approaches
 - [Cinnamoroll Coloring Pages (Free PDF Printables)](https://colorwithanne.com/cinnamoroll-coloring-pages/) — clicks up sharply this month
 
-## Featured preview collection: Capybara
+## Featured preview collection: Rumi
 
-The first complete preview theme in this repository is **Capybara Coloring
-Pages**, with ten original scenes built around everyday activities, nature,
-celebrations, and calm moments.
+The current featured preview theme in this repository is **Rumi Coloring
+Pages**, with ten scenes built around the breakout KPop Demon Hunters star —
+portraits, stage outfits, chibi moments, and demon-hunter action.
 
-[View the Capybara preview gallery](https://imakingtan.github.io/color-with-anne-printable-coloring-pages/#sheets) |
-[Get the official printable PDFs](https://colorwithanne.com/capybara-coloring-pages/)
+[View the Rumi preview gallery](https://imakingtan.github.io/color-with-anne-printable-coloring-pages/#sheets) |
+[Get the official printable PDFs](https://colorwithanne.com/rumi-coloring-pages/)
 
 <p align="center">
-  <img src="docs/assets/coloring-pages/capybara/capybara-beach-day-coloring-page-preview.webp" width="260" alt="Capybara at the beach with a palm tree, shell, and starfish">
-  <img src="docs/assets/coloring-pages/capybara/capybara-butterfly-garden-coloring-page-preview.webp" width="260" alt="Capybara watching a butterfly in a flower garden">
-  <img src="docs/assets/coloring-pages/capybara/capybara-reading-books-cozy-coloring-page-preview.webp" width="260" alt="Capybara reading in a cozy chair under a floor lamp">
+  <img src="docs/assets/coloring-pages/rumi/rumi-confident-sparkling-stars-coloring-page-preview.webp" width="260" alt="Rumi smiling confidently in her demon-hunter jacket, surrounded by sparkling stars">
+  <img src="docs/assets/coloring-pages/rumi/rumi-ramen-snack-coloring-page-preview.webp" width="260" alt="Chibi Rumi peeking over a giant ramen cup labeled RUMI">
+  <img src="docs/assets/coloring-pages/rumi/huntrx-trio-full-body-coloring-page-preview.webp" width="260" alt="Full-body HUNTR/X trio: Rumi, Mira, and Zoey in stage outfits">
 </p>
 
-The ten scenes are Beach Day, Birthday Party, Bubble Bath Spa, Butterfly
-Garden, Hot Springs, Listening to Music, Plant Care, Pond with Ducks, Rainy Day
-Umbrella, and Cozy Reading.
+The ten scenes are Confident with Sparkling Stars, Cute Peace Pose, Heroic Pose,
+Starlight Pose, Ramen Snack, Rumi and Jinu, Rumi and Derpy the Tiger, Rumi's
+Demon Markings, HUNTR/X Trio Full Body, and Simple Rumi with Demon Marks.
 
 ## Why this repository uses previews
 
@@ -88,7 +88,7 @@ trackers.
 |-- catalog/
 |   `-- coloring-pages.json
 |-- docs/
-|   |-- assets/coloring-pages/capybara/
+|   |-- assets/coloring-pages/rumi/
 |   |-- index.html
 |   |-- print-guide.html
 |   `-- styles.css
@@ -131,4 +131,4 @@ website.
 
 Browse the maintained printable collection at
 [colorwithanne.com](https://colorwithanne.com/), or go directly to the
-[official Capybara coloring pages](https://colorwithanne.com/capybara-coloring-pages/).
+[official Rumi coloring pages](https://colorwithanne.com/rumi-coloring-pages/).
