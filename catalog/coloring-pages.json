@@ -1,1 +1,162 @@
-{"$schema":"../schema/coloring-page.schema.json","collection":"Color with Anne Printable Coloring Pages","items":[{"alt":"Rumi smiling confidently in her demon-hunter jacket with a RUMI patch, surrounded by sparkling stars.","difficulty":"medium","id":"rumi-confident-sparkling-stars","license":"Color with Anne personal and classroom non-commercial license","preview":"../docs/assets/coloring-pages/rumi/rumi-confident-sparkling-stars-coloring-page-preview.webp","sourcePage":"https://colorwithanne.com/rumi-coloring-pages/","subject":["rumi","portrait","stars","jacket"],"theme":"rumi","title":"Rumi Confident with Sparkling Stars"},{"alt":"Rumi in a cropped hoodie and jeans flashing a peace sign, surrounded by hearts and sparkles.","difficulty":"easy","id":"rumi-cute-peace-pose","license":"Color with Anne personal and classroom non-commercial license","preview":"../docs/assets/coloring-pages/rumi/rumi-cute-peace-pose-coloring-page-preview.webp","sourcePage":"https://colorwithanne.com/rumi-coloring-pages/","subject":["rumi","peace sign","hearts","hoodie"],"theme":"rumi","title":"Rumi Cute Peace Pose"},{"alt":"Rumi with a long braid in her demon-hunter jacket, framed by radiating heroic speed lines.","difficulty":"medium","id":"rumi-heroic-pose","license":"Color with Anne personal and classroom non-commercial license","preview":"../docs/assets/coloring-pages/rumi/rumi-heroic-sword-pose-coloring-page-preview.webp","sourcePage":"https://colorwithanne.com/rumi-coloring-pages/","subject":["rumi","portrait","braid","jacket"],"theme":"rumi","title":"Rumi Heroic Pose"},{"alt":"Full-body Rumi in a starlight stage outfit floating among stars, crescent moons, and swirling ribbons.","difficulty":"detailed","id":"rumi-starlight-pose","license":"Color with Anne personal and classroom non-commercial license","preview":"../docs/assets/coloring-pages/rumi/rumi-starlight-pose-coloring-page-preview.webp","sourcePage":"https://colorwithanne.com/rumi-coloring-pages/","subject":["rumi","full body","stars","moon","stage outfit"],"theme":"rumi","title":"Rumi Starlight Pose"},{"alt":"Chibi Rumi peeking over a giant ramen cup labeled RUMI while slurping noodles, with stars and steam swirls.","difficulty":"easy","id":"rumi-ramen-snack","license":"Color with Anne personal and classroom non-commercial license","preview":"../docs/assets/coloring-pages/rumi/rumi-ramen-snack-coloring-page-preview.webp","sourcePage":"https://colorwithanne.com/rumi-coloring-pages/","subject":["rumi","chibi","ramen","noodles"],"theme":"rumi","title":"Rumi Ramen Snack"},{"alt":"Close-up portrait of Rumi and Jinu side by side, surrounded by floating bubbles.","difficulty":"medium","id":"rumi-and-jinu","license":"Color with Anne personal and classroom non-commercial license","preview":"../docs/assets/coloring-pages/rumi/rumi-and-jinu-coloring-page-preview.webp","sourcePage":"https://colorwithanne.com/rumi-coloring-pages/","subject":["rumi","jinu","portrait","bubbles"],"theme":"rumi","title":"Rumi and Jinu"},{"alt":"Rumi sitting on a bed showing a card to Derpy the tiger, with a tiny bird perched on the tiger's head.","difficulty":"medium","id":"rumi-and-derpy-tiger","license":"Color with Anne personal and classroom non-commercial license","preview":"../docs/assets/coloring-pages/rumi/rumi-and-tiger-derpy-coloring-page-preview.webp","sourcePage":"https://colorwithanne.com/rumi-coloring-pages/","subject":["rumi","tiger","derpy","bedroom"],"theme":"rumi","title":"Rumi and Derpy the Tiger"},{"alt":"Rumi with glowing demon markings across her face and arms, gazing forward with a serious expression.","difficulty":"medium","id":"rumi-demon-markings","license":"Color with Anne personal and classroom non-commercial license","preview":"../docs/assets/coloring-pages/rumi/rumi-demon-markings-coloring-page-preview.webp","sourcePage":"https://colorwithanne.com/rumi-coloring-pages/","subject":["rumi","portrait","demon markings"],"theme":"rumi","title":"Rumi's Demon Markings"},{"alt":"Full-body HUNTR/X trio, Rumi, Mira, and Zoey, standing on stairs in their stage outfits.","difficulty":"medium","id":"huntrx-trio-full-body","license":"Color with Anne personal and classroom non-commercial license","preview":"../docs/assets/coloring-pages/rumi/huntrx-trio-full-body-coloring-page-preview.webp","sourcePage":"https://colorwithanne.com/rumi-coloring-pages/","subject":["rumi","mira","zoey","huntrix","full body","stage outfits"],"theme":"rumi","title":"HUNTR/X Trio Full Body"},{"alt":"Simple portrait of Rumi with a long braid and gentle smile, with flowing demon-mark swirls on her shoulders.","difficulty":"easy","id":"rumi-simple-demon-marks","license":"Color with Anne personal and classroom non-commercial license","preview":"../docs/assets/coloring-pages/rumi/rumi-simple-demon-marks-coloring-page-preview.webp","sourcePage":"https://colorwithanne.com/rumi-coloring-pages/","subject":["rumi","portrait","braid","beginner"],"theme":"rumi","title":"Simple Rumi with Demon Marks"}],"updated":"2026-10-09"}
+{
+  "$schema": "../schema/coloring-page.schema.json",
+  "collection": "Color with Anne Printable Coloring Pages",
+  "updated": "2026-10-12",
+  "items": [
+    {
+      "id": "ghostface-halloween-party",
+      "title": "Ghostface Halloween Party",
+      "alt": "Ghostface in costume at a Halloween party with pumpkins and spooky decorations.",
+      "difficulty": "medium",
+      "theme": "halloween",
+      "subject": [
+        "ghostface",
+        "halloween",
+        "party",
+        "pumpkin"
+      ],
+      "preview": "../docs/assets/coloring-pages/halloween/ghostface-halloween-party-coloring-page-preview.webp",
+      "sourcePage": "https://colorwithanne.com/ghostface-coloring-pages/",
+      "license": "Color with Anne personal and classroom non-commercial license"
+    },
+    {
+      "id": "ghostface-pumpkin-patch",
+      "title": "Ghostface in a Pumpkin Patch",
+      "alt": "Ghostface standing in a pumpkin patch under a moonlit sky.",
+      "difficulty": "medium",
+      "theme": "halloween",
+      "subject": [
+        "ghostface",
+        "pumpkin",
+        "night",
+        "moon"
+      ],
+      "preview": "../docs/assets/coloring-pages/halloween/ghostface-pumpkin-patch-coloring-page-preview.webp",
+      "sourcePage": "https://colorwithanne.com/ghostface-coloring-pages/",
+      "license": "Color with Anne personal and classroom non-commercial license"
+    },
+    {
+      "id": "ghostface-full-body-portrait",
+      "title": "Classic Ghostface Full-Body Portrait",
+      "alt": "Classic full-body portrait of Ghostface in the iconic screaming mask and black robe.",
+      "difficulty": "detailed",
+      "theme": "halloween",
+      "subject": [
+        "ghostface",
+        "portrait",
+        "mask"
+      ],
+      "preview": "../docs/assets/coloring-pages/halloween/ghostface-full-body-portrait-coloring-page-preview.webp",
+      "sourcePage": "https://colorwithanne.com/ghostface-coloring-pages/",
+      "license": "Color with Anne personal and classroom non-commercial license"
+    },
+    {
+      "id": "chucky-pumpkin-and-candy",
+      "title": "Chucky with Pumpkin and Candy",
+      "alt": "Chucky the doll with a jack-o'-lantern and a pile of Halloween candy.",
+      "difficulty": "medium",
+      "theme": "halloween",
+      "subject": [
+        "chucky",
+        "doll",
+        "pumpkin",
+        "candy"
+      ],
+      "preview": "../docs/assets/coloring-pages/halloween/chucky-pumpkin-and-candy-coloring-page-preview.webp",
+      "sourcePage": "https://colorwithanne.com/chucky-coloring-pages/",
+      "license": "Color with Anne personal and classroom non-commercial license"
+    },
+    {
+      "id": "chucky-classic-portrait",
+      "title": "Classic Chucky Portrait",
+      "alt": "Classic portrait of Chucky with stitched face, wild hair, and striped shirt.",
+      "difficulty": "medium",
+      "theme": "halloween",
+      "subject": [
+        "chucky",
+        "portrait",
+        "doll"
+      ],
+      "preview": "../docs/assets/coloring-pages/halloween/chucky-classic-portrait-coloring-page-preview.webp",
+      "sourcePage": "https://colorwithanne.com/chucky-coloring-pages/",
+      "license": "Color with Anne personal and classroom non-commercial license"
+    },
+    {
+      "id": "michael-myers-cute-halloween",
+      "title": "Cute Michael Myers Halloween",
+      "alt": "Cute chibi Michael Myers in his white mask holding a Halloween pumpkin.",
+      "difficulty": "easy",
+      "theme": "halloween",
+      "subject": [
+        "michael myers",
+        "mask",
+        "pumpkin",
+        "chibi"
+      ],
+      "preview": "../docs/assets/coloring-pages/halloween/michael-myers-cute-halloween-coloring-page-preview.webp",
+      "sourcePage": "https://colorwithanne.com/michael-myers-coloring-pages/",
+      "license": "Color with Anne personal and classroom non-commercial license"
+    },
+    {
+      "id": "michael-myers-halloween-night",
+      "title": "Michael Myers Halloween Night",
+      "alt": "Michael Myers on a dark Halloween night with glowing jack-o'-lanterns.",
+      "difficulty": "medium",
+      "theme": "halloween",
+      "subject": [
+        "michael myers",
+        "night",
+        "pumpkin"
+      ],
+      "preview": "../docs/assets/coloring-pages/halloween/michael-myers-halloween-night-coloring-page-preview.webp",
+      "sourcePage": "https://colorwithanne.com/michael-myers-coloring-pages/",
+      "license": "Color with Anne personal and classroom non-commercial license"
+    },
+    {
+      "id": "skeleton-cute-astronaut",
+      "title": "Cute Skeleton Astronaut",
+      "alt": "Cute skeleton astronaut floating in space among stars and planets.",
+      "difficulty": "easy",
+      "theme": "halloween",
+      "subject": [
+        "skeleton",
+        "astronaut",
+        "space"
+      ],
+      "preview": "../docs/assets/coloring-pages/halloween/skeleton-cute-astronaut-coloring-page-preview.webp",
+      "sourcePage": "https://colorwithanne.com/skeleton-coloring-pages/",
+      "license": "Color with Anne personal and classroom non-commercial license"
+    },
+    {
+      "id": "skeleton-pirate-treasure",
+      "title": "Friendly Pirate Skeleton and Treasure Chest",
+      "alt": "Friendly pirate skeleton grinning beside a treasure chest full of gold.",
+      "difficulty": "medium",
+      "theme": "halloween",
+      "subject": [
+        "skeleton",
+        "pirate",
+        "treasure"
+      ],
+      "preview": "../docs/assets/coloring-pages/halloween/skeleton-pirate-treasure-coloring-page-preview.webp",
+      "sourcePage": "https://colorwithanne.com/skeleton-coloring-pages/",
+      "license": "Color with Anne personal and classroom non-commercial license"
+    },
+    {
+      "id": "halloween-chibi-witch",
+      "title": "Chibi Halloween Witch",
+      "alt": "Chibi Halloween witch with a candy bucket and friendly little ghosts.",
+      "difficulty": "easy",
+      "theme": "halloween",
+      "subject": [
+        "witch",
+        "halloween",
+        "candy",
+        "ghosts"
+      ],
+      "preview": "../docs/assets/coloring-pages/halloween/halloween-chibi-witch-coloring-page-preview.webp",
+      "sourcePage": "https://colorwithanne.com/halloween-coloring-pages/",
+      "license": "Color with Anne personal and classroom non-commercial license"
+    }
+  ]
+}

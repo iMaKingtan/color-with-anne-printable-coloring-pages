@@ -28,12 +28,12 @@ usage guidance, and the newest coloring-page collections.
 
 ## New This Week
 
-_Last updated: October 9, 2026_
+_Last updated: October 12, 2026_
 
-- [20 South Park Coloring Pages (Free PDF Printables)](https://colorwithanne.com/south-park-coloring-pages/)
-- [24 December Coloring Pages (Free PDF Printables)](https://colorwithanne.com/december-coloring-pages/)
-- [17 Flower Mandala Coloring Pages (Free PDF Printables)](https://colorwithanne.com/flower-mandala-coloring-pages/)
-- [20 Bugatti Coloring Pages (Free PDF Printables)](https://colorwithanne.com/bugatti-coloring-pages/)
+- [21 Shaun the Sheep Coloring Pages (Free PDF Printables)](https://colorwithanne.com/shaun-the-sheep-coloring-pages/)
+- [21 Angry Birds Coloring Pages (Free PDF Printables)](https://colorwithanne.com/angry-birds-coloring-pages/)
+- [17 Michael Myers Coloring Pages (Free PDF Printables)](https://colorwithanne.com/michael-myers-coloring-pages/)
+- [19 Helicopter Coloring Pages (Free PDF Printables)](https://colorwithanne.com/helicopter-coloring-pages/)
 
 These links point to the newest topic pages on Color with Anne. Their images and
 printable files remain on the official website rather than being copied into
@@ -44,29 +44,31 @@ this repository.
 _What visitors are searching for this week. Every link goes to a real article
 on colorwithanne.com._
 
-- [Rumi Coloring Pages (Free PDF Printables)](https://colorwithanne.com/rumi-coloring-pages/) — searches for "rumi coloring page" surged from zero to hundreds of impressions
-- [KPop Demon Hunters Coloring Pages (Free PDF Printables)](https://colorwithanne.com/kpop-demon-hunters-coloring-pages/) — rising fast in site searches and reader requests
-- [Halloween Coloring Pages (Free PDF Printables)](https://colorwithanne.com/halloween-coloring-pages/) — seasonal favorite as October 31 approaches
-- [Cinnamoroll Coloring Pages (Free PDF Printables)](https://colorwithanne.com/cinnamoroll-coloring-pages/) — clicks up sharply this month
+- [Rumi Coloring Pages (Free PDF Printables)](https://colorwithanne.com/rumi-coloring-pages/) — impressions up 2,213 in 28 days, the site's breakout search theme
+- [Cinnamoroll Coloring Pages (Free PDF Printables)](https://colorwithanne.com/cinnamoroll-coloring-pages/) — impressions up 279, ranking 5.1
+- [Minecraft Coloring Pages (Free PDF Printables)](https://colorwithanne.com/minecraft-coloring-pages/) — impressions up 238 and climbing
+- [KPop Demon Hunters Coloring Pages (Free PDF Printables)](https://colorwithanne.com/kpop-demon-hunters-coloring-pages/) — 515 impressions and rising fast
 
-## Featured preview collection: Rumi
+## Featured preview collection: Halloween
 
-The current featured preview theme in this repository is **Rumi Coloring
-Pages**, with ten scenes built around the breakout KPop Demon Hunters star —
-portraits, stage outfits, chibi moments, and demon-hunter action.
+The current featured preview theme in this repository is **Halloween Coloring
+Pages** — ten spooky scenes picked for the October 31 season: Ghostface,
+Chucky, Michael Myers, skeletons, and a chibi witch.
 
-[View the Rumi preview gallery](https://imakingtan.github.io/color-with-anne-printable-coloring-pages/#sheets) |
-[Get the official printable PDFs](https://colorwithanne.com/rumi-coloring-pages/)
+[View the Halloween preview gallery](https://imakingtan.github.io/color-with-anne-printable-coloring-pages/#sheets) |
+[Get the official printable PDFs](https://colorwithanne.com/halloween-coloring-pages/)
 
 <p align="center">
-  <img src="docs/assets/coloring-pages/rumi/rumi-confident-sparkling-stars-coloring-page-preview.webp" width="260" alt="Rumi smiling confidently in her demon-hunter jacket, surrounded by sparkling stars">
-  <img src="docs/assets/coloring-pages/rumi/rumi-ramen-snack-coloring-page-preview.webp" width="260" alt="Chibi Rumi peeking over a giant ramen cup labeled RUMI">
-  <img src="docs/assets/coloring-pages/rumi/huntrx-trio-full-body-coloring-page-preview.webp" width="260" alt="Full-body HUNTR/X trio: Rumi, Mira, and Zoey in stage outfits">
+  <img src="docs/assets/coloring-pages/halloween/ghostface-halloween-party-coloring-page-preview.webp" width="260" alt="Ghostface in costume at a Halloween party with pumpkins and spooky decorations">
+  <img src="docs/assets/coloring-pages/halloween/chucky-pumpkin-and-candy-coloring-page-preview.webp" width="260" alt="Chucky the doll with a jack-o'-lantern and a pile of Halloween candy">
+  <img src="docs/assets/coloring-pages/halloween/michael-myers-cute-halloween-coloring-page-preview.webp" width="260" alt="Cute chibi Michael Myers in his white mask holding a Halloween pumpkin">
 </p>
 
-The ten scenes are Confident with Sparkling Stars, Cute Peace Pose, Heroic Pose,
-Starlight Pose, Ramen Snack, Rumi and Jinu, Rumi and Derpy the Tiger, Rumi's
-Demon Markings, HUNTR/X Trio Full Body, and Simple Rumi with Demon Marks.
+The ten scenes are Ghostface Halloween Party, Ghostface in a Pumpkin Patch,
+Classic Ghostface Full-Body Portrait, Chucky with Pumpkin and Candy, Classic
+Chucky Portrait, Cute Michael Myers Halloween, Michael Myers Halloween Night,
+Cute Skeleton Astronaut, Friendly Pirate Skeleton and Treasure Chest, and
+Chibi Halloween Witch.
 
 ## Why this repository uses previews
 
@@ -88,7 +90,7 @@ trackers.
 |-- catalog/
 |   `-- coloring-pages.json
 |-- docs/
-|   |-- assets/coloring-pages/rumi/
+|   |-- assets/coloring-pages/halloween/
 |   |-- index.html
 |   |-- print-guide.html
 |   `-- styles.css
@@ -131,4 +133,4 @@ website.
 
 Browse the maintained printable collection at
 [colorwithanne.com](https://colorwithanne.com/), or go directly to the
-[official Rumi coloring pages](https://colorwithanne.com/rumi-coloring-pages/).
+[official Halloween coloring pages](https://colorwithanne.com/halloween-coloring-pages/).

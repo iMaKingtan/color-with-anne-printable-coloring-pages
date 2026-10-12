@@ -28,7 +28,7 @@ coloring-pages
 printables
 kids-activities
 teacher-resources
-rumi
+halloween
 github-pages
 webp
 ```
