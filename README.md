@@ -33,11 +33,12 @@ _Last updated: October 15, 2026_
 <p align="center">
   <a href="https://colorwithanne.com/money-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/money-coloring-pages-banner-480x251.webp" width="300" alt="20 Money Coloring Pages (Free PDF Printables)"></a>
   <a href="https://colorwithanne.com/miraculous-ladybug-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/miraculous-ladybug-coloring-pages-banner-480x251.webp" width="300" alt="20 Miraculous Ladybug Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/bug-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/bug-coloring-pages-banner-480x251.webp" width="300" alt="9 Bug Coloring Pages (Free PDF Printables)"></a>
 </p>
 <p align="center">
-  <a href="https://colorwithanne.com/bug-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/bug-coloring-pages-banner-480x251.webp" width="300" alt="9 Bug Coloring Pages (Free PDF Printables)"></a>
   <a href="https://colorwithanne.com/stocking-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/stocking-coloring-pages-banner-480x251.webp" width="300" alt="20 Stocking Coloring Pages (Free PDF Printables)"></a>
   <a href="https://colorwithanne.com/nascar-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/nascar-coloring-pages-banner-480x251.webp" width="300" alt="18 NASCAR Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/castle-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/castle-coloring-pages-banner.webp" width="300" alt="32 Castle Coloring Pages (Free PDF Printables)"></a>
 </p>
 
 - [20 Money Coloring Pages (Free PDF Printables)](https://colorwithanne.com/money-coloring-pages/)
@@ -45,6 +46,7 @@ _Last updated: October 15, 2026_
 - [9 Bug Coloring Pages (Free PDF Printables)](https://colorwithanne.com/bug-coloring-pages/)
 - [20 Stocking Coloring Pages (Free PDF Printables)](https://colorwithanne.com/stocking-coloring-pages/)
 - [18 NASCAR Coloring Pages (Free PDF Printables)](https://colorwithanne.com/nascar-coloring-pages/)
+- [32 Castle Coloring Pages (Free PDF Printables)](https://colorwithanne.com/castle-coloring-pages/)
 
 These links point to the newest topic pages on Color with Anne. Their images and
 printable files remain on the official website rather than being copied into
