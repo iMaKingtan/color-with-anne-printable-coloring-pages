@@ -28,12 +28,13 @@ usage guidance, and the newest coloring-page collections.
 
 ## New This Week
 
-_Last updated: October 12, 2026_
+_Last updated: October 15, 2026_
 
-- [21 Shaun the Sheep Coloring Pages (Free PDF Printables)](https://colorwithanne.com/shaun-the-sheep-coloring-pages/)
-- [21 Angry Birds Coloring Pages (Free PDF Printables)](https://colorwithanne.com/angry-birds-coloring-pages/)
-- [17 Michael Myers Coloring Pages (Free PDF Printables)](https://colorwithanne.com/michael-myers-coloring-pages/)
-- [19 Helicopter Coloring Pages (Free PDF Printables)](https://colorwithanne.com/helicopter-coloring-pages/)
+- [20 Money Coloring Pages (Free PDF Printables)](https://colorwithanne.com/money-coloring-pages/)
+- [20 Miraculous Ladybug Coloring Pages (Free PDF Printables)](https://colorwithanne.com/miraculous-ladybug-coloring-pages/)
+- [9 Bug Coloring Pages (Free PDF Printables)](https://colorwithanne.com/bug-coloring-pages/)
+- [20 Stocking Coloring Pages (Free PDF Printables)](https://colorwithanne.com/stocking-coloring-pages/)
+- [18 NASCAR Coloring Pages (Free PDF Printables)](https://colorwithanne.com/nascar-coloring-pages/)
 
 These links point to the newest topic pages on Color with Anne. Their images and
 printable files remain on the official website rather than being copied into
@@ -134,3 +135,4 @@ website.
 Browse the maintained printable collection at
 [colorwithanne.com](https://colorwithanne.com/), or go directly to the
 [official Halloween coloring pages](https://colorwithanne.com/halloween-coloring-pages/).
+
