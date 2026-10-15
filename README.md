@@ -55,6 +55,15 @@ this repository.
 _What visitors are searching for this week. Every link goes to a real article
 on colorwithanne.com._
 
+<p align="center">
+  <a href="https://colorwithanne.com/rumi-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/Rumi-Coloring-Pages-Banner-4.png" width="300" alt="Rumi Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/cinnamoroll-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/Cinnamoroll-Coloring-Pages-Banner.png" width="300" alt="Cinnamoroll Coloring Pages (Free PDF Printables)"></a>
+</p>
+<p align="center">
+  <a href="https://colorwithanne.com/minecraft-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/Minecraft-Coloring-Pages-Banner-1.png" width="300" alt="Minecraft Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/kpop-demon-hunters-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/KPop-Demon-Hunters-Coloring-Pages-Banner-1024x536.png" width="300" alt="KPop Demon Hunters Coloring Pages (Free PDF Printables)"></a>
+</p>
+
 - [Rumi Coloring Pages (Free PDF Printables)](https://colorwithanne.com/rumi-coloring-pages/) — impressions up 2,213 in 28 days, the site's breakout search theme
 - [Cinnamoroll Coloring Pages (Free PDF Printables)](https://colorwithanne.com/cinnamoroll-coloring-pages/) — impressions up 279, ranking 5.1
 - [Minecraft Coloring Pages (Free PDF Printables)](https://colorwithanne.com/minecraft-coloring-pages/) — impressions up 238 and climbing
