@@ -31,14 +31,22 @@ usage guidance, and the newest coloring-page collections.
 _Last updated: October 15, 2026_
 
 <p align="center">
-  <a href="https://colorwithanne.com/money-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/money-coloring-pages-banner-480x251.webp" width="300" alt="20 Money Coloring Pages (Free PDF Printables)"></a>
-  <a href="https://colorwithanne.com/miraculous-ladybug-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/miraculous-ladybug-coloring-pages-banner-480x251.webp" width="300" alt="20 Miraculous Ladybug Coloring Pages (Free PDF Printables)"></a>
-  <a href="https://colorwithanne.com/bug-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/bug-coloring-pages-banner-480x251.webp" width="300" alt="9 Bug Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/money-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/money-coloring-pages-banner-480x251.webp" width="600" alt="20 Money Coloring Pages (Free PDF Printables)"></a>
 </p>
 <p align="center">
-  <a href="https://colorwithanne.com/stocking-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/stocking-coloring-pages-banner-480x251.webp" width="300" alt="20 Stocking Coloring Pages (Free PDF Printables)"></a>
-  <a href="https://colorwithanne.com/nascar-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/nascar-coloring-pages-banner-480x251.webp" width="300" alt="18 NASCAR Coloring Pages (Free PDF Printables)"></a>
-  <a href="https://colorwithanne.com/castle-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/castle-coloring-pages-banner.webp" width="300" alt="32 Castle Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/miraculous-ladybug-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/miraculous-ladybug-coloring-pages-banner-480x251.webp" width="600" alt="20 Miraculous Ladybug Coloring Pages (Free PDF Printables)"></a>
+</p>
+<p align="center">
+  <a href="https://colorwithanne.com/bug-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/bug-coloring-pages-banner-480x251.webp" width="600" alt="9 Bug Coloring Pages (Free PDF Printables)"></a>
+</p>
+<p align="center">
+  <a href="https://colorwithanne.com/stocking-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/stocking-coloring-pages-banner-480x251.webp" width="600" alt="20 Stocking Coloring Pages (Free PDF Printables)"></a>
+</p>
+<p align="center">
+  <a href="https://colorwithanne.com/nascar-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/nascar-coloring-pages-banner-480x251.webp" width="600" alt="18 NASCAR Coloring Pages (Free PDF Printables)"></a>
+</p>
+<p align="center">
+  <a href="https://colorwithanne.com/castle-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/castle-coloring-pages-banner.webp" width="600" alt="32 Castle Coloring Pages (Free PDF Printables)"></a>
 </p>
 
 - [20 Money Coloring Pages (Free PDF Printables)](https://colorwithanne.com/money-coloring-pages/)
@@ -58,12 +66,16 @@ _What visitors are searching for this week. Every link goes to a real article
 on colorwithanne.com._
 
 <p align="center">
-  <a href="https://colorwithanne.com/rumi-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/Rumi-Coloring-Pages-Banner-4.png" width="300" alt="Rumi Coloring Pages (Free PDF Printables)"></a>
-  <a href="https://colorwithanne.com/cinnamoroll-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/Cinnamoroll-Coloring-Pages-Banner.png" width="300" alt="Cinnamoroll Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/rumi-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/Rumi-Coloring-Pages-Banner-4.png" width="600" alt="Rumi Coloring Pages (Free PDF Printables)"></a>
 </p>
 <p align="center">
-  <a href="https://colorwithanne.com/minecraft-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/Minecraft-Coloring-Pages-Banner-1.png" width="300" alt="Minecraft Coloring Pages (Free PDF Printables)"></a>
-  <a href="https://colorwithanne.com/kpop-demon-hunters-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/KPop-Demon-Hunters-Coloring-Pages-Banner-1024x536.png" width="300" alt="KPop Demon Hunters Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/cinnamoroll-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/Cinnamoroll-Coloring-Pages-Banner.png" width="600" alt="Cinnamoroll Coloring Pages (Free PDF Printables)"></a>
+</p>
+<p align="center">
+  <a href="https://colorwithanne.com/minecraft-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/Minecraft-Coloring-Pages-Banner-1.png" width="600" alt="Minecraft Coloring Pages (Free PDF Printables)"></a>
+</p>
+<p align="center">
+  <a href="https://colorwithanne.com/kpop-demon-hunters-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/KPop-Demon-Hunters-Coloring-Pages-Banner-1024x536.png" width="600" alt="KPop Demon Hunters Coloring Pages (Free PDF Printables)"></a>
 </p>
 
 - [Rumi Coloring Pages (Free PDF Printables)](https://colorwithanne.com/rumi-coloring-pages/) — impressions up 2,213 in 28 days, the site's breakout search theme
