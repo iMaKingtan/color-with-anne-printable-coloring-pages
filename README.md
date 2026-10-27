@@ -94,6 +94,26 @@ Chucky Portrait, Cute Michael Myers Halloween, Michael Myers Halloween Night,
 Cute Skeleton Astronaut, Friendly Pirate Skeleton and Treasure Chest, and
 Chibi Halloween Witch.
 
+## Halloween Topics
+
+_Representative Halloween pages for the October 31 season. Every link goes to a real article on colorwithanne.com._
+
+<p align="center">
+  <a href="https://colorwithanne.com/halloween-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/halloween-coloring-pages.png" width="300" alt="Halloween Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/jack-skellington-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/standard-jack-skellington-coloring-pages-banner-printable.webp" width="300" alt="Jack Skellington Coloring Pages (Free PDF Printables)"></a>
+</p>
+<p align="center">
+  <a href="https://colorwithanne.com/hello-kitty-halloween-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/standard-hello-kitty-halloween-coloring-pages-banner-printable.webp" width="300" alt="Hello Kitty Halloween Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/bluey-halloween-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/bluey-halloween-coloring-pages-banner.webp" width="300" alt="Bluey Halloween Coloring Pages (Free PDF Printables)"></a>
+</p>
+
+- [Halloween Coloring Pages (Free PDF Printables)](https://colorwithanne.com/halloween-coloring-pages/)
+- [Jack Skellington Coloring Pages (Free PDF Printables)](https://colorwithanne.com/jack-skellington-coloring-pages/)
+- [Hello Kitty Halloween Coloring Pages (Free PDF Printables)](https://colorwithanne.com/hello-kitty-halloween-coloring-pages/)
+- [Bluey Halloween Coloring Pages (Free PDF Printables)](https://colorwithanne.com/bluey-halloween-coloring-pages/)
+
+These links point to Halloween topic pages on Color with Anne. Their images and printable files remain on the official website rather than being copied into this repository.
+
 ## Why this repository uses previews
 
 This project deliberately publishes branded, web-sized WebP previews rather
