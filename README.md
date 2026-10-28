@@ -28,27 +28,27 @@ usage guidance, and the newest coloring-page collections.
 
 ## New This Week
 
-_Last updated: October 15, 2026_
+_Last updated: October 28, 2026_
 
 <p align="center">
-  <a href="https://colorwithanne.com/money-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/money-coloring-pages-banner-480x251.webp" width="300" alt="20 Money Coloring Pages (Free PDF Printables)"></a>
-  <a href="https://colorwithanne.com/miraculous-ladybug-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/miraculous-ladybug-coloring-pages-banner-480x251.webp" width="300" alt="20 Miraculous Ladybug Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/romance-saja-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/romance-saja-coloring-pages-banner.webp" width="300" alt="Romance Saja Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/mystery-saja-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/mystery-saja-coloring-pages-banner.webp" width="300" alt="Mystery Saja Coloring Pages (Free PDF Printables)"></a>
 </p>
 <p align="center">
-  <a href="https://colorwithanne.com/bug-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/bug-coloring-pages-banner-480x251.webp" width="300" alt="9 Bug Coloring Pages (Free PDF Printables)"></a>
-  <a href="https://colorwithanne.com/stocking-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/stocking-coloring-pages-banner-480x251.webp" width="300" alt="20 Stocking Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/abby-saja-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/abby-saja-coloring-pages-banner.webp" width="300" alt="Abby Saja Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/meowth-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/meowth-coloring-pages-banner.webp" width="300" alt="Meowth Coloring Pages (Free PDF Printables)"></a>
 </p>
 <p align="center">
-  <a href="https://colorwithanne.com/nascar-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/nascar-coloring-pages-banner-480x251.webp" width="300" alt="18 NASCAR Coloring Pages (Free PDF Printables)"></a>
-  <a href="https://colorwithanne.com/castle-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/castle-coloring-pages-banner.webp" width="300" alt="32 Castle Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/jigglypuff-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/jigglypuff-coloring-pages-banner.webp" width="300" alt="Jigglypuff Coloring Pages (Free PDF Printables)"></a>
+  <a href="https://colorwithanne.com/aphmau-coloring-pages/"><img src="https://colorwithanne.com/wp-content/uploads/aphmau-coloring-pages-banner.webp" width="300" alt="Aphmau Coloring Pages (Free PDF Printables)"></a>
 </p>
 
-- [20 Money Coloring Pages (Free PDF Printables)](https://colorwithanne.com/money-coloring-pages/)
-- [20 Miraculous Ladybug Coloring Pages (Free PDF Printables)](https://colorwithanne.com/miraculous-ladybug-coloring-pages/)
-- [9 Bug Coloring Pages (Free PDF Printables)](https://colorwithanne.com/bug-coloring-pages/)
-- [20 Stocking Coloring Pages (Free PDF Printables)](https://colorwithanne.com/stocking-coloring-pages/)
-- [18 NASCAR Coloring Pages (Free PDF Printables)](https://colorwithanne.com/nascar-coloring-pages/)
-- [32 Castle Coloring Pages (Free PDF Printables)](https://colorwithanne.com/castle-coloring-pages/)
+- [Romance Saja Coloring Pages (Free PDF Printables)](https://colorwithanne.com/romance-saja-coloring-pages/)
+- [Mystery Saja Coloring Pages (Free PDF Printables)](https://colorwithanne.com/mystery-saja-coloring-pages/)
+- [Abby Saja Coloring Pages (Free PDF Printables)](https://colorwithanne.com/abby-saja-coloring-pages/)
+- [Meowth Coloring Pages (Free PDF Printables)](https://colorwithanne.com/meowth-coloring-pages/)
+- [Jigglypuff Coloring Pages (Free PDF Printables)](https://colorwithanne.com/jigglypuff-coloring-pages/)
+- [Aphmau Coloring Pages (Free PDF Printables)](https://colorwithanne.com/aphmau-coloring-pages/)
 
 These links point to the newest topic pages on Color with Anne. Their images and
 printable files remain on the official website rather than being copied into
